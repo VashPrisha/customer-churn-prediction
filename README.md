@@ -26,6 +26,4 @@ This project predicts customer churn using machine learning. Built during my int
 
 1. Clone the repo
 2. Install dependencies:
-
-   ```bash
-   pip install -r Customer_Churn_Prediction_Requirements_txt.txt
+3. Run the Streamlit app
