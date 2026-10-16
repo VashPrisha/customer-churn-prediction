@@ -3,7 +3,7 @@ Built a machine learning model to predict customer churn using classification al
 
 # Customer Churn Prediction
 
-This project predicts customer churn using machine learning. Built during my internship at Celebal Technologies using the Telco dataset from Kaggle.
+This project predicts customer churn using machine learning. Built using the Telco dataset from Kaggle.
 
 
 ## Features
